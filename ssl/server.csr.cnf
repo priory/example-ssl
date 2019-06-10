@@ -1,0 +1,14 @@
+[req]
+default_bits = 2048
+prompt = no
+default_md = sha256
+distinguished_name = dn 
+
+[dn]
+C=NL
+ST=Gelderland
+L=Nijkerk
+O=End Point
+OU=Testing
+emailAddress=v.packo94@gmail.com
+CN=test-domain.com 
